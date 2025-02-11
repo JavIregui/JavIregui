@@ -1,4 +1,4 @@
-## 👨‍💻 Javier Iregui
+# 👨‍💻 Javier Iregui
 ``Full-Stack Developer | Web Designer`` <br/>
 
 🎓 Studied Video Game Design and Development at UDIT University (Madrid, Spain)<br/>
