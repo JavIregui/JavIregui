@@ -3,7 +3,7 @@
 
 🎓 Studied Video Game Design and Development at UDIT University (Madrid, Spain)<br/>
 🎨 Also studied Design and UX/UI at CEI (Madrid, Spain)<br/>
-💭 Currently learning more about Back-End Development ans new technologies<br/>
+💭 Currently learning more about Back-End Development and new technologies<br/>
 💻 Always looking for new projects!<br/><br/>
 
 📝 You can also check my [full CV](./CV.pdf) ([Spanish version](./CV_ES.pdf))<br/><br/>
