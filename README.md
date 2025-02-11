@@ -6,7 +6,7 @@
 💭 Currently learning more about Back-End Development and new technologies<br/>
 💻 Always looking for new projects!<br/><br/>
 
-📝 You can also check my [full CV](./CV.pdf) ([Spanish version](./CV_ES.pdf))<br/><br/>
+📝 You can find my full CV [here](./CV.pdf). ([Spanish version](./CV_ES.pdf))<br/><br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JavIregui&theme=default&hide_border=false)<br/><br/>
 
